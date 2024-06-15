@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "e:\\ProjectHosting\\EIC&ESB Database Project\\DatabaseProjectEasyITCenter\\DatabaseProjectEasyITCenter.sqlproj": {}
+  },
+  "projects": {
+    "e:\\ProjectHosting\\EIC&ESB Database Project\\DatabaseProjectEasyITCenter\\DatabaseProjectEasyITCenter.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\ProjectHosting\\EIC&ESB Database Project\\DatabaseProjectEasyITCenter\\DatabaseProjectEasyITCenter.sqlproj",
+        "projectName": "DatabaseProjectEasyITCenter",
+        "projectPath": "e:\\ProjectHosting\\EIC&ESB Database Project\\DatabaseProjectEasyITCenter\\DatabaseProjectEasyITCenter.sqlproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "e:\\ProjectHosting\\EIC&ESB Database Project\\DatabaseProjectEasyITCenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

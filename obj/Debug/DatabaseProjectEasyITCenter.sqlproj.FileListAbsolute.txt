@@ -1,0 +1,10 @@
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\bin\Debug\DatabaseProjectEasyITCenter.dacpac
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\bin\Debug\DatabaseProjectEasyITCenter.dll
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\bin\Debug\DatabaseProjectEasyITCenter.pdb
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\obj\Debug\DatabaseProjectEasyITCenter.sqlproj.AssemblyReference.cache
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\obj\Debug\Model.xml
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\obj\Debug\refactor.xml
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\obj\Debug\postdeploy.sql
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\obj\Debug\predeploy.sql
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\obj\Debug\DatabaseProjectEasyITCenter.dll
+e:\ProjectHosting\EIC&ESB Database Project\DatabaseProjectEasyITCenter\obj\Debug\DatabaseProjectEasyITCenter.pdb
